@@ -10,8 +10,8 @@ A simple and intuitive tip calculator application built with Flutter. This app a
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshots/screenshot1.png)
-![Screenshot 2](assets/screenshots/screenshot2.png)
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
 ## Getting Started
 
