@@ -9,9 +9,9 @@ A simple and intuitive tip calculator application built with Flutter. This app a
 - **Instant Calculation**: See the tip amount and total bill update in real-time.
 
 ## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+| Screenshot 1 |  Screenshot 2 |
+|:------------------:|:-------------------:|
+| ![Screenshot 1](screenshots/screenshot1.png) | ![Screenshot 2](screenshots/screenshot2.png) |
 
 ## Getting Started
 
