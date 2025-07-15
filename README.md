@@ -1,6 +1,17 @@
-# tip_calculator
+# Tip Calculator
 
-A new Flutter project.
+A simple and intuitive tip calculator application built with Flutter. This app allows users to input a bill amount, adjust the tip percentage using a slider, and instantly see the calculated tip amount and the total bill.
+
+## Features
+
+- **Bill Amount Input**: Easily enter the total bill amount.
+- **Adjustable Tip Percentage**: Use a slider to set your desired tip percentage (0-100%).
+- **Instant Calculation**: See the tip amount and total bill update in real-time.
+
+## Screenshots
+
+![Screenshot 1](assets/screenshots/screenshot1.png)
+![Screenshot 2](assets/screenshots/screenshot2.png)
 
 ## Getting Started
 
